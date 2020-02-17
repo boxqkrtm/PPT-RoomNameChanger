@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
@@ -117,8 +118,9 @@ namespace PPT_RoomNameChanger
                             + 0xAC), 32);
                     Dispatcher.Invoke(DispatcherPriority.Normal, new Action(delegate
                     {
-                    //사용할 메서드 및 동작
-                    textBox1.Text = ("" + roomtitle);
+                        //사용할 메서드 및 동작
+                        
+                    textBox1.Text = ("" + Regex.Replace(roomtitle, @"\0+", ""));
                     }));
                 }
                 Thread.Sleep(1000);

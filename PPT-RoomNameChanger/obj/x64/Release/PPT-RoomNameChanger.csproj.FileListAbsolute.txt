@@ -12,3 +12,17 @@ C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Rele
 C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT-RoomNameChanger.csproj.GenerateResource.cache
 C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT_RoomNameChanger.exe
 C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT_RoomNameChanger.pdb
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\bin\x64\Release\PPT_RoomNameChanger.exe.config
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\bin\x64\Release\PPT_RoomNameChanger.exe
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\bin\x64\Release\PPT_RoomNameChanger.pdb
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT-RoomNameChanger.csprojAssemblyReference.cache
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\MainWindow.g.cs
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\App.g.cs
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT_RoomNameChanger_MarkupCompile.cache
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT_RoomNameChanger_MarkupCompile.lref
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\MainWindow.baml
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT_RoomNameChanger.g.resources
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT_RoomNameChanger.Properties.Resources.resources
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT-RoomNameChanger.csproj.GenerateResource.cache
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT_RoomNameChanger.exe
+C:\Users\9902a\Documents\GitHub\PPT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Release\PPT_RoomNameChanger.pdb
