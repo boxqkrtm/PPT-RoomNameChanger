@@ -1,0 +1,14 @@
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\bin\x64\Debug\PPT_RoomNameChanger.exe.config
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\bin\x64\Debug\PPT_RoomNameChanger.exe
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\bin\x64\Debug\PPT_RoomNameChanger.pdb
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\PPT-RoomNameChanger.csprojAssemblyReference.cache
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\MainWindow.g.cs
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\App.g.cs
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\PPT_RoomNameChanger_MarkupCompile.cache
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\PPT_RoomNameChanger_MarkupCompile.lref
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\MainWindow.baml
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\PPT_RoomNameChanger.g.resources
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\PPT_RoomNameChanger.Properties.Resources.resources
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\PPT-RoomNameChanger.csproj.GenerateResource.cache
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\PPT_RoomNameChanger.exe
+C:\Users\9902a\source\repos\PTT-RoomNameChanger\PPT-RoomNameChanger\obj\x64\Debug\PPT_RoomNameChanger.pdb

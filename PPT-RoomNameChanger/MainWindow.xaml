@@ -6,14 +6,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PTT_RoomNameChanger"
         mc:Ignorable="d"
-        Title="PPT-RoomNameChanger by whitetac(9902abcd@gmail.com)" Height="107" Width="434">
-    <Grid Margin="0,0,2,-31">
+        Title="PPT-RoomNameChanger by whitetac(9902abcd@gmail.com)" Height="167" Width="469">
+
+    <Grid Margin="0,0,2,-21">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="75*"/>
-            <ColumnDefinition Width="199*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
         </Grid.ColumnDefinitions>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="404" TextChanged="TextBox_TextChanged" Name="textBox1" Tag="" MaxLength="36" Grid.ColumnSpan="2"/>
-        <Label Content="Room Name" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,36,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="434" TextChanged="TextBox_TextChanged" Name="textBox1" Tag="" MaxLength="19" Grid.ColumnSpan="2"/>
+        <Label Content="Room Name" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+
+        <Label Content="Win Count" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top"/>
+        <StackPanel Name="set" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5,91,0,0" Height="25" Width="445" Orientation="Horizontal" >
+            <RadioButton x:Name="a5" GroupName="set" Height="16" Content="FT5" Margin="5"/>
+            <RadioButton x:Name="a10" GroupName="set" Height="16" Content="FT10" Margin="5"/>
+            <RadioButton x:Name="a15" GroupName="set" Height="16" Content="FT15" Margin="5"/>
+            <RadioButton x:Name="a20" GroupName="set" Height="16" Content="FT20" Margin="5"/>
+            <RadioButton x:Name="a25" GroupName="set" Height="16" Content="FT25" Margin="5"/>
+            <RadioButton x:Name="a30" GroupName="set" Height="16" Content="FT30" Margin="5"/>
+            <RadioButton x:Name="a50" GroupName="set" Height="16" Content="FT50" Margin="5"/>
+            <RadioButton x:Name="a100" GroupName="set" Height="16" Content="FT100" Margin="5"/>
+
+        </StackPanel>
 
     </Grid>
+
+
+
 </Window>
